@@ -1,0 +1,59 @@
+body {
+  width: 960px;
+}
+
+section {
+  width: 960px;
+  border: 1px solid black;
+}
+
+header {
+  border: 1px solid black;
+  position: relative;
+
+}
+
+#blog {
+  width: 5px;
+  height: 5px;
+}
+
+#delicious {
+  position: relative;
+
+};
+
+#icon {
+  position: absolute;
+  float: left;
+
+}
+
+#ingredients {
+  position:relative;
+
+}
+
+.formleft {
+  position:absolute;
+  top: 100px;
+  left: 50px;
+  font-size: 1.2em;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+.formright {
+  position:absolute;
+  top: 100px;
+  left: 500px;
+  font-size: 1.2em;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+.ing label {
+  display:block;
+  
+
+}

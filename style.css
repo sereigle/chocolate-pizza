@@ -26,5 +26,34 @@ header {
 #icon {
   position: absolute;
   float: left;
+
+}
+
+#ingredients {
+  position:relative;
+
+}
+
+.formleft {
+  position:absolute;
+  top: 100px;
+  left: 50px;
+  font-size: 1.2em;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+.formright {
+  position:absolute;
+  top: 100px;
+  left: 500px;
+  font-size: 1.2em;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+.ing label {
+  display:block;
   
+
 }

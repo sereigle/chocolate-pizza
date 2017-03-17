@@ -17,3 +17,14 @@ header {
   width: 5px;
   height: 5px;
 }
+
+#delicious {
+  position: relative;
+
+};
+
+#icon {
+  position: absolute;
+  float: left;
+  
+}
